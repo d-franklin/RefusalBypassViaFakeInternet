@@ -1,4 +1,4 @@
-# Local Attacks on AI Agents — Serve a Fake Internet to Bypass Guardrails
+# Local Attacks on AI Agents — Serve a Fake Internet to Bypass Refusals
 
 ## Why
 
